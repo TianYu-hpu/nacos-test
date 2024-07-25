@@ -31,13 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-### module
-spring-boot-config-example/.mvn
-spring-boot-config-example/target
-spring-cloud-config-example/.mvn
-spring-cloud-config-example/target
-service-provider/.mvn
-service-provider/target
-nacos-consumer/.mvn
-nacos-consumer/target
